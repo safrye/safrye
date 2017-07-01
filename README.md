@@ -100,7 +100,6 @@
       </li>
       <li><a href="bat-skripte.html">Here</a> are some batch file scripts I wrote.</li>
 
-      <!-- <A HREF="/sf-zips/">Here</A> is a little software collection.<BR> -->
     </ul>
     <h4>
       My collection of solutions for computer problem I ran into:
