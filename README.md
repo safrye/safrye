@@ -1,3 +1,3 @@
 Alte Netzseite.
-  * jcv.nhi.gov
+  * jcv.nih.gov
   * folk.uio.no/stephanf (www_docs)
